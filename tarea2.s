@@ -1,3 +1,8 @@
+@ Instituo Tecnologico de Tijuana 
+@ Ingeneiria en Sistemas Computacionales 
+@ Lenguajes de Interfaz 
+@ Manuel Antonio Lopez Quiroz 18210494
+@ 20 de noviembre de 2020
 @ primero.s
 @   from thinkingeek.com
 @   http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
